@@ -1,5 +1,6 @@
 # Unity Cannon Shooter Game
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/christopher-boustros/Unity-Cannon-Shooter-Game)
+![GitHub code size](https://img.shields.io/github/languages/code-size/christopher-boustros/Unity-Cannon-Shooter-Game "Code size")
+![GitHub license](https://img.shields.io/github/license/christopher-boustros/Unity-Cannon-Shooter-Game "License")
 
 A 2D cannon shooter game made with Unity in which the player must destroy balloons with cannonballs. This game was made as part of a course assignment for COMP 521 Modern Computer Games in fall 2020 at McGill University. The goal of the assignment was to implement Perlin noise, Verlet integration, physics, and collision detection manually, without the use of libraries.
 
